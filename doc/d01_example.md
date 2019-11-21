@@ -42,5 +42,5 @@ This is an example of regression table
 
 And this is plot
 
-![img](./fig/f02_MkscBordComp.png)
+![img](./fig/f01_bias.png)
 
