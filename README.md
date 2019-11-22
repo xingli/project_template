@@ -17,10 +17,17 @@ Here are the details for each sub-folders.
 
 2. You can easily create a markdown file (.md) using any text editor. There are some better-designed interface, say, [macdown](https://macdown.uranusjr.com) for mac. I have no recommendation for PC, but you may check online review, say, [here](https://www.sitepoint.com/best-markdown-editors-windows/)
 
-3. If you use any markdown editor, you can easily convert the .md script into html or pdf. If you want to pile up all documentation in ONE script, you may use command-line tool [markdown_py](https://python-markdown.github.io/cli/). After installing the module in python, you can run the following command in terminal (only in mac, or unix-like environment. Not sure about PC)
-    
+3. If you use any markdown editor, you can easily convert the .md script into html or pdf. If you want to pile up all documentation in ONE script (say, adsDoc.html), you may use command-line tool [markdown_py](https://python-markdown.github.io/cli/). After installing the module in python, you can run the following command in terminal (only in mac, or unix-like environment. Not sure about PC)
+
+    ```
     cat head.md.aux d*.md | markdown_py -x markdown.extensions.toc > alldoc.html
-    
+    ```
+
+4. Naming the file: start with the same prefix, say, d01_xxx, d02_xxx, and you may want to add your name at the end, say, d01_startupXL.md.
+
+5. As the style inside md, try report math equations, regression tables, and figures, in a nice way. See adsDoc.html, and existing md files as examples.
+
+
 
 
 
