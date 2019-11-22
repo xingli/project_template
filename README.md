@@ -1,5 +1,9 @@
 # Template for project folders
 
+**Notice**
+
+Before go through the README, click the green button of "clone or download" on the top-right, and download a copy to the local.
+
 I usually use the structure here to organize all my files in one research projects. The sub-folders include:
 
 - doc: project document, recording everything that has been done till now
