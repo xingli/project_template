@@ -29,6 +29,20 @@ Here are the details for each sub-folders.
 
 5. As the style inside md, try report math equations, regression tables, and figures, in a nice way. See adsDoc.html, and existing md files as examples.
 
+## ./literature: literature
+
+Naming: AuthorYearJournal_shortsummary.pdf, see examples
+
+## ./code, and ./draft
+
+1. Use differnet prefix, say, a01_, a02_, for stata file, p01_, p02_, for python file
+
+2. Add name at the suffix, say, a01_startXL.do
+
+3. In the draft folder, name the draft using ProjectDateEditor.txt, say, adsdraft191112XL.docx.
+
+
+
 
 
 
