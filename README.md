@@ -28,6 +28,7 @@ Here are the details for each sub-folders.
 4. Naming the file: start with the same prefix, say, d01_xxx, d02_xxx, and you may want to add your name at the end, say, d01_startupXL.md. And put all "md" files directly under "./doc".
 
 5. As the style inside md, try report math equations, regression tables, and figures, in a nice way. See adsDoc.html, and existing md files as examples.
+
     a. Use relative path instead of absolute path to insert images. The difference between two can be found [here](https://web.stanford.edu/class/archive/cs/cs107/cs107.1202/resources/paths) and [here](https://baike.baidu.com/item/相对路径) in Chinese.
 
 ## ./literature: literature
