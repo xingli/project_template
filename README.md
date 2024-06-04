@@ -35,13 +35,18 @@ Here are the details for each sub-folders.
 
 Naming: AuthorYearJournal_shortsummary.pdf, see examples
 
-## ./code, and ./draft
+## ./code
 
 1. Use differnet prefix, say, a01_, a02_, for stata file, p01_, p02_, for python file
 
 2. Add name at the suffix, say, a01_startXL.do
 
-3. In the draft folder, name the draft using ProjectDateEditor.txt, say, adsdraft191112XL.docx.
+3. The sample code for replication files before submission is in a02_replication.do
+
+## ./draft
+
+1. In the draft folder, name the draft using ProjectDateEditor.txt, say, adsdraft191112XL.docx.
+2. In current days, suggest to use overleaf for drafts and slides.
 
 
 
